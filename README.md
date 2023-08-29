@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Counter App
+
+![counter](https://github.com/SankalpHaritash21/Counter_App/assets/110713125/854032a9-9d38-4ea5-bb91-aa64c336a187)
+
 
 ## Getting Started
 
